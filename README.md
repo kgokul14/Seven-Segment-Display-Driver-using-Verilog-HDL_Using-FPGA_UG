@@ -1,4 +1,5 @@
 # Seven-Segment-Display-Driver-using-Verilog-HDL_Using-FPGA
+# EXP NO: 2.B Seven-Segment Display Implementation in Spartan-7 FPGA
 # Aim
 To design and simulate a Verilog HDL seven-segment display driver that converts a 4-bit binary input into the corresponding digits 0–9.
 
